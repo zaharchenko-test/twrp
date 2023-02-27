@@ -1,0 +1,10 @@
+ro.product.brand=lenovo
+ro.product.mod_device=jd2019_global
+sys.usb.rndis.func.name=rndis_bam
+sys.usb.rmnet.func.name=rmnet_bam
+#
+ro.product.board=sdm710
+ro.board.platform=sdm710
+#
+ro.crypto.volume.options=aes-256-xts:aes-256-cts:v1
+ro.crypto.volume.filenames_mode=aes-256-cts
